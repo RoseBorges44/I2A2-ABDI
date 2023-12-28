@@ -5,7 +5,7 @@
 </p>
 
 
-# Deafios I2A2-ABDI
+# Desafios I2A2-ABDI
 
 **Desafio 2 - Titanic:** https://github.com/RoseBorges44/data_science/blob/main/Titanic1.ipynb
 
